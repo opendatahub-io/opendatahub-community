@@ -15,7 +15,7 @@ community meeting [calendar](https://calendar.google.com/calendar?cid=cmVkaGF0Lm
 ## How to join
 1. Video  Conferencing using bluejeans: https://bluejeans.com/222067203
 2. Audio Call: 
-- Dial one of the following numbers:
-- 408-915-6466 (United States)
-- For international numbers please visit [bluejeans](https://www.redhat.com/en/conference-numbers)
-- Enter the meeting ID 222067203 #
+   - Dial one of the following numbers:
+   - 408-915-6466 (United States)
+   - For international numbers please visit [bluejeans](https://www.redhat.com/en/conference-numbers)
+   - Enter the meeting ID 222067203 #
