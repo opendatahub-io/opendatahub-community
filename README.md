@@ -1,6 +1,6 @@
 # Open Data Hub Community Meetings
 Communty meeting for Open Data Hub are scheduled bi-weekly on Mondays at 
-11:00am CST.
+12:00pm EST.
 
 ## Meeting Agenda and Notes
 Meeting agenda can be found in the Wiki Page ["Open Data Hub Community Meeting Agenda"](https://gitlab.com/opendatahub/opendatahub-community/wikis/Open-Data-Hub-Community-Meeting-Agenda).
