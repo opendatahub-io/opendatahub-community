@@ -1,7 +1,7 @@
 # Open Data Hub Community
 
 ## Open Data Hub Guidelines
-To contribute new ideas such as new features or components to Open Data Hub please follow the new component proposal guidelines. 
+To contribute new ideas such as new features or components to Open Data Hub please follow the new [component proposal guidelines](GuidelinesForNewComponents.md). 
 ## Open Data Hub Community Meetings
 Communty meeting for Open Data Hub are scheduled bi-weekly on Mondays at 
 12:00pm EST.
