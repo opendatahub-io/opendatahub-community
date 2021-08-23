@@ -28,3 +28,4 @@ Xskipper jar for the relevant spark version should be added to pyspark packages 
 [IEEE Big Data 2020 paper - Extensible Data Skipping](https://arxiv.org/abs/2009.08150)
 [Adding xskipper support to JupiterHub Spark notebooks](https://github.com/opendatahub-io/odh-manifests/pull/451)
 [Issue](https://issues.redhat.com/projects/ODH/issues/ODH-447)
+[Getting started Guide](https://xskipper.io/master/getting-started/quick-start-guide/)
