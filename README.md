@@ -3,8 +3,8 @@ Communty meeting for Open Data Hub are scheduled bi-weekly on Mondays at
 12:00pm EST.
 
 ## Meeting Agenda and Notes
-Meeting agenda can be found in the document ["Open Data Hub Community Meeting Agenda"](https://docs.google.com/document/d/10_Z516npXw7g5IfSpHkwq7_CF7J6nQo-zPLHUv6vkIg/edit?usp=sharing).
-To add items to the agenda, please edit the document and add your agenda items under the meeting date title.
+Meeting agenda can be found in the document ["Open Data Hub Community Meeting Agenda"](https://docs.google.com/document/d/1u6Kwn_uBwrlYnEE1wBkK-7USXCFuD_0IU8gKhGdfuuw/edit?usp=sharing).
+To add items to the agenda, please join our [Open Data Hub Community group](https://groups.google.com/g/odh-community) so you can edit the document and add your agenda items under the meeting date title.
 
 
 ## Add Meeting Calendar
