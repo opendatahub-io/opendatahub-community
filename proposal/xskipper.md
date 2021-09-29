@@ -23,6 +23,13 @@ Spark big data users who want to boost performance and reduce cost by indexing t
 Xskipper is a Spark extension with [scala and python api](https://xskipper.io/master/api/indexing/). 
 Xskipper jar for the relevant spark version should be added to pyspark packages jars, once the jar is included data can be indexed and dataskipping can be enabled. See [example notebook](https://github.com/xskipper-io/xskipper/blob/master/notebooks/python/Xskipper%20-%20Python%20Sample.ipynb).
 
+## Testing
+In JupiterHub select spark2.4 based image (Minimal python with apache spark)
+Import xskipper pyspark notebook example (see link in Implementation section above)
+Update Setup section cells to use local filesystem for data and metadata as shown in [ODH notebook setup](img/XskipperNotebookUseOfLocalFS.png), test on spark standalone mode.
+If Xskipper module cannot be found, restart kernel/shut down and start server  until found.
+Run the notebook to verify xskipper functionality and api running as expected.
+
 ## More info
 
 - [IEEE Big Data 2020 paper - Extensible Data Skipping](https://arxiv.org/abs/2009.08150)
