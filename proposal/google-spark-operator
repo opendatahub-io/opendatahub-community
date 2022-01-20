@@ -1,0 +1,22 @@
+---
+title: Google Spark on Kubernetes Operator
+---
+
+The [Kubernetes Operator for Apache Spark](https://github.com/GoogleCloudPlatform/spark-on-k8s-operator) aims to make specifying and running Spark applications as easy and idiomatic as running other workloads on Kubernetes. It uses Kubernetes custom resources for specifying, running, and surfacing status of Spark applications.
+
+## Architecture
+
+[Kubernetes Operator for Apache Spark Design](https://github.com/GoogleCloudPlatform/spark-on-k8s-operator/blob/master/docs/design.md)
+
+## User Use Cases
+
+Anyone who wants to run Spark workloads on OpenShift in a declarative manner, without having to maintain a constantly running Spark cluster on the infrastructure.
+SparkApplication CRDs are perfectly suited for ephemeral jobs that can be scheduled or included in a controlled workflow (for example by Airflow, the most popular implementation to control Spark Jobs for data workflows, ETL pipelines,...).
+
+## Implementation
+
+Deploying the Google Spark Operator on OpenShift requires setting up specific ServiceAccounts, Roles and RoleBindings. A KfDef manifest in OpenDataHub can take care of all these configurations. A KfDef manifest is already available [here](https://github.com/guimou/odh-manifests/tree/spark-operator/google-spark-operator).
+
+## More info
+
+Considering that the RadAnalytics operator is barely maintained anymore, and even if still compatible with the latest OpenShift versions it is lagging in terms of features and Spark version support, the addition of this operator could be a great improvement for people wanting to use Spark on OpenShift. Which is many people who are considering using ODH on prem, as those who are in the Cloud already use other services.
