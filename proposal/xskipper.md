@@ -25,10 +25,9 @@ Xskipper jar for the relevant spark version should be added to pyspark packages 
 
 ## Testing
 In JupiterHub select spark2.4 based image (Minimal python with apache spark)
-Import xskipper pyspark notebook example (see link in Implementation section above)
-Update "Setup" and "Indexing a dataset" sections cells to use local filesystem for data and metadata as shown in [ODH notebook setup](img/XskipperNotebookUseOfLocalFS.png), and test on spark standalone mode.
-If Xskipper module cannot be found, restart kernel/shut down and start server until found.
-Run the notebook to verify xskipper functionality and api running as expected.
+Import xskipper pyspark (notebook example)[xskipper/Xskipper-PythonSampleJupiter2.4.5-local_fs.ipynb]
+Run the notebook to verify xskipper library is loaded, and xskipper api is running as expected.
+If Xskipper module cannot be found, restart kernel/shutdown and start server until found (to force environment variable update and cleanup cache).
 
 ## More info
 
