@@ -6,6 +6,8 @@ To contribute new ideas such as new features or components to Open Data Hub plea
 Communty meeting for Open Data Hub are scheduled monthly on Mondays at 
 12:00pm EST.
 
+## Communication
+Join or ["Open Data Hub Slack Channel"]( https://docs.google.com/document/d/1u6Kwn_uBwrlYnEE1wBkK-7USXCFuD_0IU8gKhGdfuuw/edit#heading=h.93q1spfojyd1)
 
 ## Meeting Agenda and Notes
 Meeting agenda can be found in the document ["Open Data Hub Community Meeting Agenda"](https://docs.google.com/document/d/1u6Kwn_uBwrlYnEE1wBkK-7USXCFuD_0IU8gKhGdfuuw/edit?usp=sharing).
