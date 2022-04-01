@@ -1,4 +1,4 @@
-# Opendata Hub Code of Conduct
+# Open Data Hub Code of Conduct
 
 ## Our Pledge
 
