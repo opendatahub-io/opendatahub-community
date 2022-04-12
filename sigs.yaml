@@ -1,0 +1,83 @@
+sigs:
+- dir: sig-data-scientist-experience
+  name: Data Scientist Experience
+  mission_statement: >
+    Mission statement goes here.
+
+  charter_link: charter.md
+  label: data-scientist-experience
+  leadership:
+    chairs:
+    - github: abc
+      name: ABC
+      company: Red Hat
+    - github: XYZ
+      name: XYZ
+      company: Red Hat
+    tech_leads:
+    - github: abc
+      name: ABC
+      company: Red Hat
+    - github: XYZ
+      name: XYZ
+      company: Red Hat
+  meetings:
+  - description: Regular SIG Meeting
+    day: Wednesday
+    time: "11:00"
+    tz: ET (Eastern Time)
+    frequency: biweekly
+    url: https://url.here
+    archive_url: https://url.here
+    recordings_url: https://url.here
+  contact:
+    slack: slack-channel-here
+    mailing_list: https://url.here
+  subprojects:
+  - name: project-1
+    owners:
+    - https://linktorawownersfile
+  - name: project-2
+    owners:
+    - https://linktorawownersfile
+- dir: sig-notebook-lifecycle
+  name: Notebook Server/Image Lifecycle Management
+  mission_statement: >
+    Mission statement goes here.
+
+  charter_link: charter.md
+  label: notebook-lifecycle
+  leadership:
+    chairs:
+    - github: abc
+      name: ABC
+      company: Red Hat
+    - github: XYZ
+      name: XYZ
+      company: Red Hat
+    tech_leads:
+    - github: abc
+      name: ABC
+      company: Red Hat
+    - github: XYZ
+      name: XYZ
+      company: Red Hat
+  meetings:
+  - description: Regular SIG Meeting
+    day: Wednesday
+    time: "11:00"
+    tz: ET (Eastern Time)
+    frequency: biweekly
+    url: https://url.here
+    archive_url: https://url.here
+    recordings_url: https://url.here
+  contact:
+    slack: slack-channel-here
+    mailing_list: https://url.here
+  subprojects:
+  - name: project-1
+    owners:
+    - https://linktorawownersfile
+  - name: project-2
+    owners:
+    - https://linktorawownersfile

@@ -1,0 +1,12 @@
+- Where do we put projects that are associates/tier 2?  Kubernetes puts this in a separate org.  Do we just want to have a certain naming convention? Add the instructions to the odh-repositories md file.
+- How do incubating projects fit into this?  Where are they placed and what is the naming convention?
+- What is the naming convention for projects that are incubating vs core? Need to update the repositories file with this info.
+- Add the steering committee file
+- Verify the FAQs in the repositories file
+- Update the sigs file
+- Verify the release process outlined in the template project
+- Do we need a CLA?
+- Create a steering-committee group that we add people into
+- What to do with GuidelinesForNewComponents.md
+- Add content about how to submit tests and view results
+- Do we need an email address for the steering committee
