@@ -1,5 +1,6 @@
 # Open Data Hub Community
 
+<<<<<<< HEAD
 Welcome to the Open Data Hub community!
 This is the starting point for joining and contributing to the Open Data Hub community.
 To learn more about the project structure and organization, please refer to [Governance](./governance.md) information.
@@ -17,11 +18,21 @@ Here is an excerpt from the code of conduct:
 - **Website** - Documentation is published at [opendatahub.io](https://opendatahub.io)
 - **YouTube** - Videos of Open Data Hub and other related content can be seen on the [AI/ML OpenShift YouTube channel](https://www.youtube.com/playlist?list=PLaR6Rq6Z4Iqcg2znnClv-xbj93Q_wcY8L).
 - **Open Data Hub Blog** - Read various blogs about Open Data Hub and its releases on the [Open Data Hub news page](https://opendatahub.io/news.html).
+=======
+## Open Data Hub Guidelines
+To contribute new ideas such as new features or components to Open Data Hub please follow the new [component proposal guidelines](GuidelinesForNewComponents.md). 
+## Open Data Hub Community Meetings
+Communty meeting for Open Data Hub are scheduled monthly on the third Monday of each month at 12:00pm EST.
+
+## Communication
+Join our Open Data Hub Slack Channel with this [invite link](https://join.slack.com/t/odh-io/shared_invite/zt-13hp18gxj-Yb34PfQyP9GDmKMU7AkVYw)
+>>>>>>> upstream/master
 
 ## Meeting Agenda and Notes
 Meeting agenda can be found in the document ["Open Data Hub Community Meeting Agenda"](https://docs.google.com/document/d/1u6Kwn_uBwrlYnEE1wBkK-7USXCFuD_0IU8gKhGdfuuw/edit?usp=sharing).
 To add items to the agenda, please join our [Open Data Hub Community group](https://groups.google.com/g/odh-community) so you can edit the document and add your agenda items under the meeting date title.
 
+<<<<<<< HEAD
 
 ## Calendar of Meetings
 To see upcoming Open Data Hub events and meetings, please add the [Open Data Hub 
@@ -29,10 +40,19 @@ community meeting calendar](https://calendar.google.com/calendar?cid=cmVkaGF0LmN
 
 ### How to Join
 1. Video  Conferencing using bluejeans: https://bluejeans.com/222067203
+=======
+### Add Meeting Calendar
+To add the meeting notices to your calendar please add the Open Data Hub 
+community meeting [calendar](https://calendar.google.com/calendar?cid=cmVkaGF0LmNvbV92bW1pMW5tdHQyZGJjdXVqcmJ1aGo5N2pya0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t) to your calendar.
+
+### How to join
+1. Video  Conferencing using bluejeans: https://bluejeans.com/563715630/3948
+>>>>>>> upstream/master
 2. Audio Call: 
    - Dial one of the following numbers:
    - 408-915-6466 (United States)
    - For international numbers please visit [bluejeans](https://www.redhat.com/en/conference-numbers)
+<<<<<<< HEAD
    - Enter the meeting ID 222067203 #
 
 ## Governance
@@ -51,3 +71,6 @@ The [Contributor Guide](./contributing.md) provides help on how to get your idea
 
 ## Membership
 We encourage all contributors to become members. We aim to grow an active, healthy community of contributors, reviewers, and code owners. Learn more about requirements and responsibilities of membership in our [Community Membership page](./community-membership.md).
+=======
+   - Enter the meeting ID 563715630 #
+>>>>>>> upstream/master
