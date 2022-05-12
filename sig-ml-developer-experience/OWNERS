@@ -1,7 +1,14 @@
-reviewers:
-  - add-names-here
 approvers:
-  - add-names-here
+- erwangranger
+- jkoehler-redhat
+- kywalker-rh
+- romeokienzler
+
+reviewers:
+- goern
+- LaVLaS
+- lucferbux
+- samuelvl
+
 labels:
   - sig/ml-developer-experience
-
