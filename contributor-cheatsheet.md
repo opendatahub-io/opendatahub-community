@@ -18,9 +18,9 @@ better.
 
 ### Community
 
-- [Calendar](https://calendar.google.com/calendar?cid=cmVkaGF0LmNvbV92bW1pMW5tdHQyZGJjdXVqcmJ1aGo5N2pya0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t) - View all the Open Data Hub Community events (SIG/WG meetings,
+- [Calendar](https://calendar.google.com/calendar?cid=cmVkaGF0LmNvbV92bW1pMW5tdHQyZGJjdXVqcmJ1aGo5N2pya0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t) - View all the Open Data Hub Community events (SIG meetings,
   events etc.)
-- [contributors@lists.opendatahub.io](mailto:contributors@lists.opendatahub.io) - The Open Data Hub development mailing list
+- [odh-community@googlegroups.com](mailto:odh-community@googlegroups.com) - The Open Data Hub development mailing list
 - [Slack channels](https://odh-io.slack.com) - Official Open Data Hub Slack.
 
 ## Communicating Effectively on GitHub
@@ -96,14 +96,14 @@ remotes.
 
 #### Keeping Your Fork in Sync
 
-Fetch all the changes from `upstream` and _"rebase"_ them on your local `master`
-branch. This will sync your local repo with the `upstream` project. Push the local changes to your `remote master`.
+Fetch all the changes from `upstream` and _"rebase"_ them on your local `main`
+branch. This will sync your local repo with the `upstream` project. Push the local changes to your `remote main`.
 
 ```
 git fetch upstream
-git checkout master
-git rebase upstream/master
-git push
+git checkout main
+git rebase upstream/main
+git push origin main
 ```
 
 You should do this minimally before creating a new branch to work on your
@@ -124,7 +124,7 @@ the other contributors assigned to review and approve your PR.
 Perform an interactive rebase to choose which commits you want to keep and which you want to squash, then force push your branch:
 
 ```
-git rebase -i HEAD~3
+git rebase main -i
 ...
-git push --force
+git push origin myfeature --force
 ```

@@ -13,7 +13,7 @@ December.
 - Keep up-to-date meeting notes, linked from the SIG's page in the community
 repository.
 - Record meetings and make them publicly available.
-- Report activity with the community via the [contributors@lists.opendatahub.io](mailto:contributors@lists.opendatahub.io) mailing list at
+- Report activity with the community via the [odh-community@googlegroups.com](mailto:odh-community@googlegroups.com) mailing list at
 least once a year. 
   - Each SIG is assigned an update during the [Open Data Hub community meeting](./README.md) throughout the year.
 - Participate in release planning meetings and retrospectives, and burndown
@@ -26,8 +26,7 @@ collaborating, as opposed to private emails and meetings.
 - Ensure contributing instructions are defined in the SIGs
 folder located in the opendatahub-io/opendatahub-community repository if the groups contributor steps
 and experience are different or more in-depth than the documentation listed in
-the general [contributor guide](./contributing.md).  
-- Help and sponsor working groups in which the SIG has interest.  
+the general [contributor guide](./contributing.md).
 - Track and identify all SIG features in the current release.
 
 ## Roles
@@ -56,7 +55,7 @@ of the acceptance of that SIG or Subproject.
 be eligible to hold a leadership role within a SIG.
 - SIGs *MAY* prefer various levels of domain knowledge depending on the
 role. This should be documented.  
-- People management interests.
+- Interest in working with others to help manage time and areas of contribution.
 
 #### Escalations
 
@@ -127,7 +126,7 @@ Other roles...
 duties from Chairs on a non-temporary basis. 
 - *SHOULD* be documented in SIG charters if the role has delegation away from a
 sig-governance.md listed role.
-- *SHOULD* be sent to [contributors@lists.opendatahub.io](mailto:contributors@lists.opendatahub.io) for awareness as a notice 
+- *SHOULD* be sent to [odh-community@googlegroups.com](mailto:odh-community@googlegroups.com) for awareness as a notice 
 and a lazy consensus period when they are newly created.
 - *MAY* Fill in for another named role on a temporary basis.
 
@@ -135,7 +134,7 @@ and a lazy consensus period when they are newly created.
 
 Option 1: by SIG Chairs
 
-- Subprojects may be created by socializing the proposal to the corresponding SIG with fallback on majority vote of SIG Chairs.  The result *SHOULD* be supported by the majority of SIG Leads.
+- Subprojects may be created by socializing the proposal to the corresponding SIG with fallback on majority vote of the corresponding SIG Chairs.  The result *SHOULD* be supported by the majority of the leads of the SIG.
   - Proposal *MUST* establish subproject owners.
   - [sigs.yaml](./sigs.yaml) *MUST* be updated to include subproject information and OWNERS files with subproject owners.
   - Where subprojects processes differ from the SIG governance, they must document how.
@@ -160,7 +159,7 @@ Subprojects of the SIG *MUST* use the following processes unless explicitly foll
 they have defined.
 
 - Proposing and making decisions
-  - Proposals sent as PRs and published to [announcements@lists.opendatahub.io](mailto:announcements@lists.opendatahub.io).
+  - Proposals sent as PRs and published to [odh-community@googlegroups.com](mailto:odh-community@googlegroups.com).
   - Follow proposal decision making process.
 
 - Test health

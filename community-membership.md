@@ -1,7 +1,7 @@
 # Community Membership
 
-This doc outlines the various responsibilities of contributor roles in
-Open Data Hub.  The Open Data Hub project is subdivided into subprojects under SIGs.
+This document outlines the various responsibilities of contributor roles in the
+Open Data Hub community.  The Open Data Hub project is subdivided into subprojects under SIGs.
 Responsibilities for most roles are scoped to these subprojects.
 
 | Role | Responsibilities | Requirements | Defined by |
@@ -41,13 +41,13 @@ remain active contributors to the community.
     - Authoring or reviewing PRs on GitHub. At least one PR must be **merged**.
     - Filing or commenting on issues on GitHub.
     - Contributing to SIG, subproject, or community discussions (e.g. meetings, Slack, email discussion forums).
-- Subscribed to [contributors@lists.opendatahub.io](mailto:contributors@lists.opendatahub.io).
+- Subscribed to [odh-community@googlegroups.com](mailto:odh-community@googlegroups.com).
 - Have read the [contributor guide](./contributing.md).
 - Actively contributing to 1 or more subprojects.
 - Sponsored by 2 reviewers. **Note the following requirements for sponsors**:
     - Sponsors must have close interactions with the prospective member - e.g. code/design/proposal review, coordinating on issues, etc.
     - Sponsors must be reviewers or approvers in at least one OWNERS file within one of the Open Data Hub GitHub organizations.
-- **Submit a membership request to [maintainers@lists.opendatahub.io](mailto:maintainers@lists.opendatahub.io)**
+- **Submit a membership request to [odh-community@googlegroups.com](mailto:odh-community@googlegroups.com)**
    - Ensure your sponsors are @mentioned on the issue
    - Complete every item on the checklist ([preview the current version of the template](./membership.yaml))
    - Make sure that the list of contributions included is representative of your work on the project.

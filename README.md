@@ -12,7 +12,7 @@ Here is an excerpt from the code of conduct:
 *In the interest of fostering an open and welcoming environment, we as contributors and maintainers pledge to making participation in our project and our community a harassment-free experience for everyone, regardless of age, body size, disability, ethnicity, gender identity and expression, level of experience, education, socio-economic status, nationality, personal appearance, race, religion, or sexual identity and orientation.*
 
 - **Slack** - Join us on Slack for discussions and questions at [odh-io.slack.com](https://odh-io.slack.com).
-- **Mailing Lists** - There are various [Open Data Hub mailing lists](https://lists.opendatahub.io/admin/lists/) to join to keep up with the latest and start discussions, including ones for [Announcements](mailto:announcements@lists.opendatahub.io) and [Users](mailto:users@lists.opendatahub.io).
+- **Mailing List** - Join the Open Data Hub mailing list [odh-community@googlegroups.com](mailto:odh-community@googlegroups.com) to keep up with the latest news and start discussions.
 - **Community Meetings** - We use [Bluejeans](https://www.bluejeans.com/) for our community group meetings and contributor programs.
 - **Website** - Documentation is published at [opendatahub.io](https://opendatahub.io)
 - **YouTube** - Videos of Open Data Hub and other related content can be seen on the [AI/ML OpenShift YouTube channel](https://www.youtube.com/playlist?list=PLaR6Rq6Z4Iqcg2znnClv-xbj93Q_wcY8L).
@@ -37,15 +37,14 @@ community meeting calendar](https://calendar.google.com/calendar?cid=cmVkaGF0LmN
 
 ## Governance
 Open Data Hub has the following types of groups that are officially supported:
-- **Committees** are named sets of people that are chartered to take on sensitive topics. This group is encouraged to be as open as possible while achieving its mission but, because of the nature of the topics discussed, private communications are allowed. Examples of committees include the steering committee.
+- **Steering Committee** is the governing body of the Open Data Hub project tasked with taking on sensitive topics, providing strategic direction, decision-making and oversight.
 - **Special Interest Groups (SIGs)** are persistent open groups that focus on a part of the project. SIGs must have open and transparent proceedings. Anyone is welcome to participate and contribute provided they follow the Open Data Hub Code of Conduct. The purpose of a SIG is to own and develop a set of subprojects.
   - **Subprojects** Each SIG can have a set of subprojects. These are smaller groups that can work independently. Some subprojects will be part of the main Open Data Hub deliverables while others will be more speculative.
-- **Working Groups** are temporary groups that are formed to address issues that cross SIG boundaries. Working groups do not own any code or other long term artifacts. Working groups can report back and act through involved SIGs.
 
 See the full [governance document](./governance.md) for more details on these groups.
 
 ## Contribute
-A first step to contributing is to pick from the list of Open Data Hub SIGs. Start attending SIG meetings, join the slack channel and subscribe to the mailing list. SIGs will often have a set of "help wanted" issues that can help new contributors get involved.
+A first step to contributing is to pick from the list of Open Data Hub SIGs. Start attending SIG meetings, join the slack channel and subscribe to the mailing list. Subprojects in the SIGs will often have a set of "help wanted" issues that can help new contributors get involved.
 
 The [Contributor Guide](./contributing.md) provides help on how to get your ideas and bug fixes seen and accepted.
 

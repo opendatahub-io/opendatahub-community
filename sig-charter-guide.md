@@ -43,7 +43,7 @@ As part of this we will define roles for the [OARP](https://stumblingabout.com/t
   If more substantial changes are desired it is advisable to socialize those before drafting a PR.
     - The steering committee will be looking to ensure the scope of the SIG as represented in the charter is reasonable (and within the scope of Open Data Hub) and that processes are fair.
 - For large changes alert the rest of the Open Data Hub community (Participants) as the scope of the changes becomes clear.
-  Sending mail to [contributors@lists.opendatahub.io](mailto:contributors@lists.opendatahub.io) and/or announcing at the community meeting are a good ways to do this.
+  Sending mail to [odh-community@googlegroups.com](mailto:odh-community@googlegroups.com) and/or announcing at the community meeting are a good ways to do this.
 
 If there are questions about this process please reach out to the steering committee.
 

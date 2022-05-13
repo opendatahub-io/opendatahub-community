@@ -19,7 +19,7 @@ body:
       required: true
     - label: I have [enabled 2FA on my GitHub account](https://github.com/settings/security)
       required: true
-    - label: I have subscribed to the [Open Data Hub contributors mailing list](mailto:contributors@lists.opendatahub.io)
+    - label: I have subscribed to the [Open Data Hub mailing list](mailto:odh-community@googlegroups.com)
       required: true
     - label: I am actively contributing to 1 or more Open Data Hub subprojects
       required: true
@@ -56,3 +56,4 @@ body:
       - SIG projects I am involved with
   validations:
     required: true
+

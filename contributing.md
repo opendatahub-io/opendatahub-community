@@ -68,11 +68,11 @@ The location of the test code varies with type, as do the specifics of the envir
 
 *TODO: Add information about how to submit tests and viewing results*
 
-Continuous integration will run these tests either as pre-submits on PRs, post-submits against master/release branches, or both.
+Continuous integration will run these tests either as pre-submits on PRs, post-submits against main/release branches, or both.
 
 ## Documentation
 
-Consider contributing to documentation to improve install instructions, tutorials, examples and more by adding content to [opendatahub.io](https://github.com/opendatahub-io/opendatahub.io). 
+Consider contributing to documentation to improve install instructions, tutorials, examples and more by adding content to [opendatahub.io](https://github.com/opendatahub-io/opendatahub.io).  If new features or components are being submitted, it is expected that proper documentation will accompany it.
 
 ## Issues Management or Triage
 

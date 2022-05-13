@@ -1,11 +1,11 @@
 sigs:
-- dir: sig-data-scientist-experience
-  name: Data Scientist Experience
+- dir: sig-ml-developer-experience
+  name: ML Developer Experience
   mission_statement: >
     Mission statement goes here.
 
   charter_link: charter.md
-  label: data-scientist-experience
+  label: ml-developer-experience
   leadership:
     chairs:
     - github: abc
@@ -40,13 +40,13 @@ sigs:
   - name: project-2
     owners:
     - https://linktorawownersfile
-- dir: sig-notebook-lifecycle
-  name: Notebook Server/Image Lifecycle Management
+- dir: sig-platform
+  name: Platform
   mission_statement: >
     Mission statement goes here.
 
   charter_link: charter.md
-  label: notebook-lifecycle
+  label: platform
   leadership:
     chairs:
     - github: abc
@@ -81,3 +81,4 @@ sigs:
   - name: project-2
     owners:
     - https://linktorawownersfile
+

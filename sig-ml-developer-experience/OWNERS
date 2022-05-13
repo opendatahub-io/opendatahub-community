@@ -3,4 +3,5 @@ reviewers:
 approvers:
   - add-names-here
 labels:
-  - sig/notebook-lifecycle
+  - sig/ml-developer-experience
+

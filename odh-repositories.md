@@ -3,7 +3,7 @@ This document attempts to outline a structure for creating and associating GitHu
 
 The document presents a tiered system of repositories with increasingly strict requirements in an attempt to provide the right level of oversight and flexibility for a variety of different projects.
 
-Requests for creating, transferring, modifying, or archiving repositories can be made by contacting [maintainers@lists.opendatahub.io](mailto:maintainers@lists.opendatahub.io).
+Requests for creating, transferring, modifying, or archiving repositories can be made by contacting [odh-community@googlegroups.com](mailto:odh-community@googlegroups.com).
 
 ## Associated Repositories
 Associated repositories conform to the Open Data Hub community standards for a repository, but otherwise have no restrictions. Associated repositories exist solely for the purpose of making it easier for the Open Data Hub community to work together. There is no implication of support or endorsement of any kind by the Open Data Hub project, the goals are purely logistical.
@@ -40,7 +40,7 @@ The Open Data Hub organization is primarily intended to house net-new projects o
 In addition to the requirements for new repositories, donated repositories be reviewed by the SIG to address copyright and license updates that may be required.
 
 ## Core Repositories
-Core repositories are considered core components of Open Data Hub. They are utilities, tools, applications, or libraries that are expected to be present in every or nearly every Open Data Hub release. Additionally, the opendatahub.io website and other project-wide infrastructure will remain in the Open Data Hub github organization.
+Core repositories are considered core components of Open Data Hub. They are utilities, tools, applications, or libraries that are expected to be present in every or nearly every Open Data Hub release. Additionally, the opendatahub.io website and other project-wide infrastructure will remain in the Open Data Hub GitHub organization.
 
 ### Goals
 Create a broader base of repositories so that the project can scale. Present expectations about the centrality and importance of the repository in the Open Data Hub ecosystem. Carries the endorsement of the Open Data Hub community.
@@ -51,7 +51,7 @@ Create a broader base of repositories so that the project can scale. Present exp
 - All code projects use the GNU General Public License v3.0. Documentation repositories must use the CC BY-SA 4.0.
 - Must adopt all Open Data Hub automation (e.g. /lgtm, etc)
 - All OWNERS must be members of standing as defined by ability to vote in Open Data Hub steering committee elections.
-- Repository must be approved by [maintainers@lists.opendatahub.io](mailto:maintainers@lists.opendatahub.io)
+- Repository must be approved by [odh-community@googlegroups.com](mailto:odh-community@googlegroups.com)
 
 ## Maintenance Mode
 Projects that are considered "done" or not pursuing the development of new features but are relied on as a dependency can be considered in Maintenance mode.

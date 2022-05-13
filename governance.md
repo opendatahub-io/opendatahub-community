@@ -14,8 +14,7 @@ See [community membership](./community-membership.md).
 The project is comprised of the following types of subgroups:
 - Special Interest Groups, SIGs
   - Subprojects
-- Working Groups, WGs
-- Committees
+- Steering Committee
  
 ## SIGs
 The Open Data Hub project is organized primarily into Special Interest Groups, or SIGs. Each SIG is composed of members from multiple companies and organizations, with a common purpose of advancing the project with respect to a specific topic, such as Data Scientist Experience. Our goal is to enable a distributed decision structure and code ownership, as well as providing focused forums for getting work done, making decisions, and onboarding new contributors. Every identifiable subpart of the project (e.g., github org, repository, subdirectory, API, test, issue, PR) is intended to be owned by some SIG.
@@ -33,27 +32,32 @@ See [sig governance](./sig-governance.md) for more details about current SIG ope
 ### Subprojects
 Specific work efforts within SIGs are divided into subprojects. Every part of the Open Data Hub code and documentation should be owned by some subproject. Some SIGs may have a single subproject, but many SIGs have multiple significant subprojects with distinct (though sometimes overlapping) sets of contributors and owners, who act as subproject’s technical leaders: responsible for vision and direction and overall design, choose/approve change proposal approvers, field technical escalations, etc.
 
-Example subprojects for a few SIGs:
+Example subprojects for the ML Developer Experience SIG:
 
-- SIG Notebook Server/Image Lifecycle Management: notebook server images, version control, image pipelines
-- SIG Data Scientist Experience: jupyter notebook controller, dashboard, tutorials
+- jupyter notebook controller, dashboard, tutorials, notebook server images
 
 Subprojects for each SIG are documented in [sigs.yaml](./sigs.yaml).
 
-## Working Groups
-We need community rallying points to facilitate discussions/work regarding topics that are short-lived or that span multiple SIGs.
+## Steering Committee
+The following responsibilities belong directly to the Steering Committee.
 
-Working groups are primarily used to facilitate topics of discussion that are in scope for Open Data Hub but that cross SIG lines. If a set of folks in the community want to get together and discuss a topic, they can do so without forming a Working Group.
+- Define, evolve, and defend the non-technical vision / mission and the values of the project.
+- Charter and refine policy for defining new Special Interest Groups and establish transparency and accountability policies for such groups.
+- Define and evolve project and group governance structures and policies.
+- Act as a final non-technical escalation point for any Open Data Hub repository.
+- Define and enforce requirements for community groups to be in good standing such as having an approved charter.
 
-See [working group governance](./wg-governance.md) for more details about forming and disbanding Working Groups.
+The Steering Committee is a 6 member body.
 
-Working groups are documented in [sigs.yaml](./sigs.yaml).
-
-## Committees
-Some topics, such as Security or Code of Conduct, require discretion. Whereas SIGs are voluntary groups which operate in the open and anyone can join, Committees do not have open membership and do not always operate in the open. The steering committee can form committees as needed, for bounded or unbounded duration. Membership of a committee is decided by the steering committee, however, all committee members must be community members. Like a SIG, a committee has a charter and a chair, and will report to the steering committee periodically, and to the community as makes sense, given the charter.
+- Steven Huels
+- [Sherard Griffin](https://github.com/shgriffi)
+- Bill Higgins
+- [Landon LaSmith](https://github.com/LaVLaS)
+- [Jay Koehler](https://github.com/jkoehler-redhat)
+- Darrell Reimer
 
 ## Cross-project Communication and Coordination
-While most work shouldn’t require expensive coordination with other SIGs, there will be efforts (features, refactoring, etc.) that cross SIG boundaries. In this case, it is expected that the SIGs coordinate with each other and come to mutually agreed solutions. In some cases, it may make sense to form a Working Group for joint work. Cross-SIG coordination will naturally require more time and implies a certain amount of overhead. This is intentional to encourage changes to be well encapsulated whenever possible.
+While most work shouldn’t require expensive coordination with other SIGs, there will be efforts (features, refactoring, etc.) that cross SIG boundaries. In this case, it is expected that the SIGs coordinate with each other and come to mutually agreed solutions. Cross-SIG coordination will naturally require more time and implies a certain amount of overhead. This is intentional to encourage changes to be well encapsulated whenever possible.
 
 On the other hand, some SIGs may have project-wide impact. Even those that do not may sometimes need to make changes or impose new processes or conventions that affect other SIGs. In these cases, project-wide communication processes will need to be followed. For example, proposals with project-wide impact will need to be announced more broadly, with the opportunity for members of other SIGs to provide feedback and guidance. However, the SIG that owns the area, according to its charter, will own the decision. In the case of extended debate or deadlock, decisions may be escalated to the Steering Committee, which is expected to be uncommon.
 
