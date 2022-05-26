@@ -28,12 +28,12 @@ To see upcoming Open Data Hub events and meetings, please add the [Open Data Hub
 community meeting calendar](https://calendar.google.com/calendar?cid=cmVkaGF0LmNvbV92bW1pMW5tdHQyZGJjdXVqcmJ1aGo5N2pya0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t).
 
 ### How to Join
-1. Video  Conferencing using bluejeans: https://bluejeans.com/222067203
+1. Video  Conferencing using bluejeans: https://bluejeans.com/563715630/3948
 2. Audio Call: 
    - Dial one of the following numbers:
    - 408-915-6466 (United States)
    - For international numbers please visit [bluejeans](https://www.redhat.com/en/conference-numbers)
-   - Enter the meeting ID 222067203 #
+   - Enter the meeting ID 563715630 #
 
 ## Governance
 Open Data Hub has the following types of groups that are officially supported:
