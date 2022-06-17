@@ -1,0 +1,19 @@
+# Each list is sorted alphabetically, additions should maintain that order
+
+approvers:
+
+- anishasthana
+- crobby
+- njhill
+- panbalag
+
+reviewers:
+
+- anishasthana
+- crobby
+- njhill
+- panbalag
+
+labels:
+
+- sig/ml-ops
