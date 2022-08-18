@@ -1,7 +1,12 @@
 reviewers:
-  - add-names-here
+  - VaishnaviHire
+  - Xaenalt
+  - atheo89
+  - JooHo
 approvers:
-  - add-names-here
+  - LaVLaS
+  - samuelvl
+  - gabe-l-hart
+  - taneem-ibrahim
 labels:
   - sig/platform
-
