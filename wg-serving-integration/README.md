@@ -21,7 +21,7 @@ A Working Group dedicated to designing, developing, and documenting a model serv
 * Sean Pryor (Red Hat)
 
 ## Contact
-- Slack: [#wg-serving-integration-framework](https://join.slack.com/share/enQtMzk1NDk0OTAyODg4MS1mYTYwZDk1NGZkZTJiMGMwZDRmY2MzMDQwNTFmMDg3ZDE1MjlmNmFlZmEwNmJmM2ZmYmI3YTdjNjBjODZiYmUx))
+- Slack: [#wg-serving-integration-framework](https://join.slack.com/share/enQtMzk1NDk0OTAyODg4MS1mYTYwZDk1NGZkZTJiMGMwZDRmY2MzMDQwNTFmMDg3ZDE1MjlmNmFlZmEwNmJmM2ZmYmI3YTdjNjBjODZiYmUx)
 - [Mailing list] TBD
 - [Open Community Issues/PRs] TBD
 
