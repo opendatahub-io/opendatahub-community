@@ -1,7 +1,11 @@
 reviewers:
-  - add-names-here
+  - JooHo Lee
+  - Vaishnavi Hire
+  - Samu Veloso Lopez
 approvers:
-  - add-names-here
+  - Landon LaSmith
+  - Samu Veloso Lopez
+  - Taneem Ibrahim
 labels:
   - sig/platform
 
