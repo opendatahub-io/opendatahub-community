@@ -27,10 +27,11 @@ body of expertise necessary to ensure architectural consistency over time.
 
 ## Members:
 * Chairs: 
-  * Taneem Ibrahim (Red Hat)
-  * Landon LaSmith (Red Hat)
-  * Samu Veloso Lopez (Red Hat)
-  * Gabe Goodheart (IBM)
+  * Taneem Ibrahim
+  * Landon LaSmith
+  * Samu Veloso Lopez
+  * Gabe Goodheart
+  
 * Members: 
   * Vaishnavi Hire
   * JooHo Lee 

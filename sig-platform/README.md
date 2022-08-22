@@ -12,18 +12,18 @@ The [charter](./charter.md) defines the scope and governance of the Platform Spe
 
 ### Chairs
 The Chairs of the SIG run operations and processes governing the SIG.
-- Taneem Ibrahim (Red Hat)
-- Landon LaSmith (Red Hat)
-- Samu Veloso Lopez (Red Hat)
-- Gabe Goodheart (IBM)
+- Taneem Ibrahim
+- Landon LaSmith
+- Samu Veloso Lopez
+- Gabe Goodheart
 
 ### Members
 The members of the SIG establish new subprojects, decommission existing subprojects, and resolve cross-subproject technical issues and decisions.
 
-- Chris Chase (Red Hat)
-- JooHo Lee (Red Hat)
-- Sean Pryor (Red Hat)
-- Ben Herta (IBM)
+- Chris Chase
+- JooHo Lee 
+- Sean Pryor 
+- Ben Herta 
 
 # Contact
 - [Slack](https://join.slack.com/t/odh-io/shared_invite/zt-18ptx7far-SWO4jkDbuA7Sq8Mut3JbcA)
