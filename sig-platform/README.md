@@ -20,10 +20,10 @@ The Chairs of the SIG run operations and processes governing the SIG.
 ### Members
 The members of the SIG establish new subprojects, decommission existing subprojects, and resolve cross-subproject technical issues and decisions.
 
-- Chris Chase
+- Vaishnavi Hire
 - JooHo Lee 
 - Sean Pryor 
-- Ben Herta 
+- Andriana Theodorakopoulou
 
 # Contact
 - [Slack](https://join.slack.com/t/odh-io/shared_invite/zt-18ptx7far-SWO4jkDbuA7Sq8Mut3JbcA) on channel #sig-platform
