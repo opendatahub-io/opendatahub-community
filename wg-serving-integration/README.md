@@ -40,4 +40,4 @@ A Working Group dedicated to designing, developing, and documenting a model serv
 - Create a serving integration framework for the partners model serving. providers to integrate within ODH in conjuction to model-mesh.
 - Implement at least two inference engine integrations: OpenVINO and Triton.
 - Provide requirements for UI/UX enhancements for ease of serving integrations.
-- Make the deployment of the serving engines as seamless and unified as possible
+- Make the deployment of the serving engines as seamless and unified as possible.

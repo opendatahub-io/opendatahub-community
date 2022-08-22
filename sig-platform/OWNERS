@@ -1,13 +1,12 @@
 reviewers:
-  - JooHo Lee
-  - Vaishnavi Hire
-  - Samu Veloso Lopez
-  - Landon LaSmith
+  - VaishnaviHire
+  - Xaenalt
+  - atheo89
+  - JooHo
 approvers:
-  - Landon LaSmith
-  - Samu Veloso Lopez
-  - JooHo Lee
-  - Taneem Ibrahim
+  - LaVLaS
+  - samuelvl
+  - gabe-l-hart
+  - taneem-ibrahim
 labels:
   - sig/platform
-
