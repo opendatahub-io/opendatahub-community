@@ -26,5 +26,5 @@ The members of the SIG establish new subprojects, decommission existing subproje
 - Ben Herta 
 
 # Contact
-- [Slack](https://join.slack.com/t/odh-io/shared_invite/zt-18ptx7far-SWO4jkDbuA7Sq8Mut3JbcA)
+- [Slack](https://join.slack.com/t/odh-io/shared_invite/zt-18ptx7far-SWO4jkDbuA7Sq8Mut3JbcA) on channel #sig-platform
 - [Mailing List](mailto:users@lists.opendatahub.io)
