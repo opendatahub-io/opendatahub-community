@@ -26,5 +26,5 @@ The members of the SIG establish new subprojects, decommission existing subproje
 - Christoph Goern
 
 # Contact
-- [Slack](https://join.slack.com/t/odh-io/shared_invite/zt-18ptx7far-SWO4jkDbuA7Sq8Mut3JbcA)
+- [Slack](https://join.slack.com/t/odh-io/shared_invite/zt-18ptx7far-SWO4jkDbuA7Sq8Mut3JbcA) - #sig-ml-developer-experience
 - [Mailing List](mailto:users@lists.opendatahub.io)
