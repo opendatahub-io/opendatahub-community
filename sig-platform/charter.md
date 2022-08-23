@@ -13,7 +13,7 @@ The Platform SIG maintains the core ODH operator, and establishes the standards 
 - ODH Operator
 - ODH Core Component Integration
 - Code, Binaries, Design and Services Covered
-- Opendatahub-io and opendatahub-io-contrib GitHub org
+- [Opendatahub-io](https://github.com/opendatahub-io/) and [Opendatahub-io-contrib](github.com/opendatahub-io-contrib) GitHub orgs
 - Monitoring, metrics
 - Platform Authentication/ Authorization
 - Service Mesh
