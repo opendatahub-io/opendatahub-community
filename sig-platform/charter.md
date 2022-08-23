@@ -4,7 +4,7 @@ This charter adheres to the conventions described in the [Open Data Hub Charter 
  
 ## Scope
 
-The Platform SIG maintains the core ODH operator, and establishes the standards and best practices for deployments, ecosystem integration, builds, monitoring, and secruity. 
+The Platform SIG maintains the core ODH operator, and establishes the standards and best practices for deployments, ecosystem integration, builds, monitoring, and security. 
 
 body of expertise necessary to ensure architectural consistency over time.
 
