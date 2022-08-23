@@ -25,19 +25,6 @@ body of expertise necessary to ensure architectural consistency over time.
 - Work covered under DevEx(UI/UX, Dashboard) and MLOps
 
 
-## Members:
-* Chairs: 
-  * Taneem Ibrahim
-  * Landon LaSmith
-  * Samu Veloso Lopez
-  * Gabe Goodheart
-  
-* Members: 
-  * Vaishnavi Hire
-  * JooHo Lee 
-  * Sean Pryor 
-  * Andriana Theodorakopoulou
-
 ### Roles and Organization Management
 
 This SIG adheres to the Roles and Organization Management outlined in [sig-governance](../sig-governance.md).

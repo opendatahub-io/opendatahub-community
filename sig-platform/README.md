@@ -1,6 +1,6 @@
 # ODH Platform Special Interest Group
 
-SIG Platform covers odh operator, core components, ecosystem integration, authetication, and monitoring  
+SIG Platform covers the ODH operator, odh-core components, ecosystem integration, authentication, and monitoring.
 
 The [charter](./charter.md) defines the scope and governance of the Platform Special Interest Group.
 
