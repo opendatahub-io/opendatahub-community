@@ -5,7 +5,7 @@ SIG Platform covers the ODH operator, odh-core components, ecosystem integration
 The [charter](./charter.md) defines the scope and governance of the Platform Special Interest Group.
 
 ## Meetings
-- Bi-Wonthly SIG meeting: Second and Fourth Mondays @ 11am Eastern Time ([Meeting Link](https://meet.google.com/vyw-gypz-siz))
+- Meeting Schedule: Bi-Weekly on the Second and Fourth Mondays @ 11am Eastern Time ([Meeting Link](https://meet.google.com/vyw-gypz-siz))
 - Meeting Notes: [SIG Platform - Notes](https://docs.google.com/document/d/1DW_rJHa4Yi7CzX-oXTHj3zTOS4MHeuWsBpmTyaSGJaI/edit)
 
 ## Leadership
