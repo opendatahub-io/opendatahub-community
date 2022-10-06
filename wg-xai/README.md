@@ -20,7 +20,7 @@ Get a global understanding of general behavior of predictive models, e.g. which 
 ## Organizers
 
 * Rebecca Whitworth
-* Tommaso Teofilli
+* Tommaso Teofili
 * Rui Vieira
 * Rob Geada
 
