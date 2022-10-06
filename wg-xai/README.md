@@ -21,7 +21,7 @@ Get a global understanding of general behavior of predictive models, e.g. which 
 
 * Rebecca Whitworth
 * Tommaso Teofilli
-* Rui Viera
+* Rui Vieira
 * Rob Geada
 
 ## Contact
