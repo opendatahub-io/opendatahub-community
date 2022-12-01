@@ -7,7 +7,6 @@ Debug predictions made by predictive models created / used in ODH, e.g. detect (
 Get a global understanding of general behavior of predictive models, e.g. which features does a model mostly attend to?
 
 ## Stakeholder SIGs
-* [SIG ML Developer Experience](/sig-ml-developer-experience)
 * [SIG ML Ops](/sig-ml-ops)
 
 ## Expected WG lifetime
@@ -25,7 +24,7 @@ Get a global understanding of general behavior of predictive models, e.g. which 
 * Rob Geada
 
 ## Contact
-- Slack: [#wg-ai-explainabilityt-framework](https://odh-io.slack.com/archives/C03UFCVFFEY)
+- Slack: [#wg-ai-explainabilityt](https://odh-io.slack.com/archives/C03UFCVFFEY)
 - [Mailing list] TBD
 - [Open Community Issues/PRs] TBD
 
