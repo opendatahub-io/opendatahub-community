@@ -24,7 +24,7 @@ Get a global understanding of general behavior of predictive models, e.g. which 
 * Rob Geada
 
 ## Contact
-- Slack: [#wg-ai-explainabilityt](https://odh-io.slack.com/archives/C03UFCVFFEY)
+- Slack: [#wg-ai-explainability](https://odh-io.slack.com/archives/C03UFCVFFEY)
 - [Mailing list] TBD
 - [Open Community Issues/PRs] TBD
 
