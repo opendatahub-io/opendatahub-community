@@ -36,7 +36,7 @@ Get a global understanding of general behavior of predictive models, e.g. which 
 
 ## Deliverables
 
-* Provide TrustyAI-enabled JupiterHub extension for ODH. 
+* Provide TrustyAI-enabled JupyterHub extension for ODH.
 * Implement a _local_ explainability visualization.
 * Implement a _global_ explainability visualization.
 
