@@ -1,5 +1,9 @@
 reviewers:
-  - rui, tteofili, dzonca, rgeada, tibrahim
+  - dzonca
+  - rgeada
+  - rui
+  - tibrahim
+  - tteofili
 approvers:
   - dzonca
   - rgeada
