@@ -59,5 +59,3 @@ Get a global understanding of general behavior of predictive models, e.g. which 
 * [Explanation by Example: the OptaPlanner way](https://www.youtube.com/watch?v=4H3U6xyCgMI)
 * [TrustyAI Drools Integration](https://drive.google.com/file/d/1Ti8HOzKUIJw7Qzp7J4jHEB0uYUd6lhYs/view)
 * [TrustyAI Explainability Toolkit paper](https://arxiv.org/abs/2104.12717)
-
-
