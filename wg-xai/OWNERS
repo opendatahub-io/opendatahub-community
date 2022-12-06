@@ -1,6 +1,10 @@
 reviewers:
   - rui, tteofili, dzonca, rgeada, tibrahim
 approvers:
-  - rui, tteofili, dzonca, rgeada, tibrahim
+  - dzonca
+  - rgeada
+  - rui
+  - tibrahim
+  - tteofili
 labels:
   - wg/xai
