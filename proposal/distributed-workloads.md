@@ -10,9 +10,9 @@ Distributed Workloads is a simple, user-friendly abstraction for scaling, queuin
 
 [CodeFlare SDK](https://github.com/project-codeflare/codeflare-sdk) is an intuitive user-friendly Python library that allows the user to request, access and manage remote resources with specs of their choice such as the desired distributed compute framework (ie. Ray), worker count, CPU, GPU and memory. The SDK can request to scale up or down the desired resources (ie. Ray Cluster) by generating and interfacing with an AppWrapper, a MCAD CRD, that submits the job request with desired resources to MCAD. Although currently the AppWrapper supports only the Ray framework (that has a dependency on [KubeRay](https://github.com/ray-project/kuberay)), future work will focus on extending the AppWrapper to other distributed frameworks as well.
 
-[Multi-Cluster Application Dispatcher](https://github.com/IBM/multi-cluster-app-dispatcher) (MCAD) is a Kubernetes controller providing mechanisms for applications to manage batch jobs in a single or multi-cluster environment. It is capable of (i) providing an abstraction for wrapping all resources of the job or application and treating them holistically, (ii) queuing job or application creation requests and applying different queuing policies, e.g., First In First Out, Priority, and (iii) dispatching the job to one of multiple clusters, where a MCAD queuing agent runs, using configurable dispatch policies.
+[Multi-Cluster Application Dispatcher](https://github.com/project-codeflare/multi-cluster-app-dispatcher) (MCAD) is a Kubernetes controller providing mechanisms for applications to manage batch jobs in a single or multi-cluster environment. It is capable of (i) providing an abstraction for wrapping all resources of the job or application and treating them holistically, (ii) queuing job or application creation requests and applying different queuing policies, e.g., First In First Out, Priority, and (iii) dispatching the job to one of multiple clusters, where a MCAD queuing agent runs, using configurable dispatch policies.
 
-[InstaScale](https://github.com/IBM/multi-cluster-app-dispatcher/tree/cluster-autoscale) is an on-demand resource scaling tool in the cloud. Within the resource limits set by the user, InstaScale can quickly scale up aggregated resources for distributed computing jobs, and just as easily release the resources once the job (ie. MCAD AppWrapper job) is complete. 
+[InstaScale](https://github.com/project-codeflare/instascale) is an on-demand resource scaling tool in the cloud. Within the resource limits set by the user, InstaScale can quickly scale up aggregated resources for distributed computing jobs, and just as easily release the resources once the job (ie. MCAD AppWrapper job) is complete. 
 
 Altogether, Distributed Workloads will allow the ODH user to seamlessly run and manage jobs that are distributed across the aggregated resources, all from within the custom notebook environment. 
 
@@ -72,8 +72,8 @@ The owners are committed to maintaining and testing the Distributed Workloads wi
 ## More Info
 CodeFlare SDK: https://github.com/project-codeflare/codeflare-sdk
 
-MCAD: https://github.com/IBM/multi-cluster-app-dispatcher → will be moving under CodeFlare organization Dec 2022
+MCAD: https://github.com/project-codeflare/multi-cluster-app-dispatcher
 
-InstaScale: https://github.com/IBM/multi-cluster-app-dispatcher/tree/cluster-autoscale  → will be moving under CodeFlare organization Dec 2022
+InstaScale: https://github.com/project-codeflare/instascale
 
 KubeRay: https://github.com/ray-project/kuberay 
