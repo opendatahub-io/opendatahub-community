@@ -16,7 +16,7 @@
 
 ## Organizers
 * Selbi Nuryyeva: [heyselbi](https://github.com/heyselbi)
-* Mustafa Eyceoz: [meyceoz](https://github.com/maxusmusti)
+* Mustafa Eyceoz: [maxusmusti](https://github.com/maxusmusti)
 * Atin Sood: [asood](https://github.com/asood)
 
 
