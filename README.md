@@ -11,7 +11,7 @@ Here is an excerpt from the code of conduct:
 
 *In the interest of fostering an open and welcoming environment, we as contributors and maintainers pledge to making participation in our project and our community a harassment-free experience for everyone, regardless of age, body size, disability, ethnicity, gender identity and expression, level of experience, education, socio-economic status, nationality, personal appearance, race, religion, or sexual identity and orientation.*
 
-- **Slack** - Join us on Slack for discussions and questions at [odh-io.slack.com](https://odh-io.slack.com).
+- **Slack** - Join us on Slack for discussions and questions at [odh-io.slack.com](https://odh-io.slack.com). [Invite](https://join.slack.com/t/odh-io/shared_invite/zt-13hp18gxj-Yb34PfQyP9GDmKMU7AkVYw)
 - **Mailing List** - Join the Open Data Hub mailing list [odh-community@googlegroups.com](mailto:odh-community@googlegroups.com) to keep up with the latest news and start discussions.
 - **Community Meetings** - We use [Bluejeans](https://www.bluejeans.com/) for our community group meetings and contributor programs.
 - **Website** - Documentation is published at [opendatahub.io](https://opendatahub.io)
