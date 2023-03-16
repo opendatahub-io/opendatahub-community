@@ -1,26 +1,29 @@
 # AI Explainability Working Group
 
-A Working Group dedicated to establishing (designing, developing and documenting) an explainability framework for ODH developers (based on TrustyAI explainability toolkit). 
+A Working Group dedicated to establishing (designing, developing and documenting) an explainability framework for ODH developers (based on TrustyAI explainability toolkit).
 Explanations are useful tools in order to:
 Establish trust in predictive models created / used in ODH, especially when deployed in decision making pipelines, e.g. provide explanations together with predictions to end users to allow humans to take better informed decisions
 Debug predictions made by predictive models created / used in ODH, e.g. detect (portions of) model input that are responsible for counterintuitive predictions
 Get a global understanding of general behavior of predictive models, e.g. which features does a model mostly attend to?
 
 ## Stakeholder SIGs
+
 * [SIG ML Ops](/sig-ml-ops)
 
 ## Expected WG lifetime
+
 6 months
 
 ## Meetings
-* Working Group Meeting: TBD
-  * [Meeting notes and Agenda] TBD.
+
+* Working Group Meeting: monthly on the third Wednesday @ 11am Eastern Time ([Meeting Link](https://meet.google.com/pwb-trdw-tsq))
+  * [Meeting notes and Agenda](https://docs.google.com/document/d/1iY6pz8EtLhxabkwPmqsVQ1MOC7mZJSMuEjrbK7F0q6U/edit?usp=sharing).
 
 ## Organizers
 
 * Rebecca Whitworth
 * Tommaso Teofili
-* Rui Vieira
+* [Rui Vieira](https://github.com/ruivieira)
 * Rob Geada
 
 ## Contact
