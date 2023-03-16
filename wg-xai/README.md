@@ -21,10 +21,10 @@ Get a global understanding of general behavior of predictive models, e.g. which 
 
 ## Organizers
 
-* Rebecca Whitworth
-* Tommaso Teofili
+* [Rebecca Whitworth](https://github.com/rebeccaSimmonds19)
+* [Tommaso Teofili](https://github.com/tteofili)
 * [Rui Vieira](https://github.com/ruivieira)
-* Rob Geada
+* [Rob Geada](https://github.com/RobGeada)
 
 ## Contact
 - Slack: [#wg-ai-explainability](https://odh-io.slack.com/archives/C03UFCVFFEY)
