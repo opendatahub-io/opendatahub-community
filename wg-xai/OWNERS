@@ -1,0 +1,14 @@
+reviewers:
+  - dzonca
+  - rgeada
+  - ruivieira
+  - tibrahim
+  - tteofili
+approvers:
+  - dzonca
+  - rgeada
+  - ruivieira
+  - tibrahim
+  - tteofili
+labels:
+  - wg/xai
