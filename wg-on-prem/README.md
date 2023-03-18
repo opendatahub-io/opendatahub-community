@@ -7,7 +7,7 @@ A Working Group responsible for providing guidance for on premises deployments o
 
 ## Meetings
 * Status updates will occur during [Platform SIG](sig-platform) meetings
-* [Slack](https://join.slack.com/t/odh-io/shared_invite/zt-18ptx7far-SWO4jkDbuA7Sq8Mut3JbcA) on channel #wg-on-prem
+* [Slack](https://join.slack.com/t/odh-io/shared_invite/zt-13hp18gxj-Yb34PfQyP9GDmKMU7AkVYw) on channel #wg-on-prem
 
 ## Organizers
 * Landon LaSmith: [lavlas](https://github.com/lavlas)
