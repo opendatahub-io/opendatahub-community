@@ -18,7 +18,7 @@ better.
 
 ### Community
 
-- [Calendar](https://calendar.google.com/calendar?cid=cmVkaGF0LmNvbV92bW1pMW5tdHQyZGJjdXVqcmJ1aGo5N2pya0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t) - View all the Open Data Hub Community events (SIG meetings,
+- [Calendar](https://calendar.google.com/calendar/u/0/embed?src=opendatahub.community@gmail.com&ctz=America/New_York) - View all the Open Data Hub Community events (SIG meetings,
   events etc.)
 - [odh-community@googlegroups.com](mailto:odh-community@googlegroups.com) - The Open Data Hub development mailing list
 - [Slack channels](https://odh-io.slack.com) - Official Open Data Hub Slack.
