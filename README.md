@@ -25,7 +25,7 @@ To add items to the agenda, please join our [Open Data Hub Community group](http
 
 ## Calendar of Meetings
 To see upcoming Open Data Hub events and meetings, please add the [Open Data Hub 
-community meeting calendar](https://meet.google.com/svm-xbwy-yui
+community meeting calendar](https://meet.google.com/svm-xbwy-yui)
 
 1. Video  Conferencing using Google Meet: https://meet.google.com/svm-xbwy-yui
 2.  Audio Call: 
