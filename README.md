@@ -33,7 +33,6 @@ community meeting calendar](https://meet.google.com/svm-xbwy-yui)
    - (United States) +1 575-448-4115‬ PIN: ‪387 778 528‬#
    More phone numbers: https://tel.meet/svm-xbwy-yui?pin=9916281019745
    Or join via SIP: sip:9916281019745@gmeet.redhat.com
-   - 
 
 ## Governance
 Open Data Hub has the following types of groups that are officially supported:
