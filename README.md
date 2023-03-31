@@ -13,7 +13,7 @@ Here is an excerpt from the code of conduct:
 
 - **Slack** - Join us on Slack for discussions and questions at [odh-io.slack.com](https://odh-io.slack.com). [Invite](https://join.slack.com/t/odh-io/shared_invite/zt-13hp18gxj-Yb34PfQyP9GDmKMU7AkVYw)
 - **Mailing List** - Join the Open Data Hub mailing list [odh-community@googlegroups.com](mailto:odh-community@googlegroups.com) to keep up with the latest news and start discussions.
-- **Community Meetings** - We use [Bluejeans](https://www.bluejeans.com/) for our community group meetings and contributor programs.
+- **Community Meetings** - We use [Google Meet](https://meet.google.com/) for our community group meetings and contributor programs.
 - **Website** - Documentation is published at [opendatahub.io](https://opendatahub.io)
 - **YouTube** - Videos of Open Data Hub and other related content can be seen on the [AI/ML OpenShift YouTube channel](https://www.youtube.com/playlist?list=PLaR6Rq6Z4Iqcg2znnClv-xbj93Q_wcY8L).
 - **Open Data Hub Blog** - Read various blogs about Open Data Hub and its releases on the [Open Data Hub news page](https://opendatahub.io/news.html).
@@ -25,15 +25,14 @@ To add items to the agenda, please join our [Open Data Hub Community group](http
 
 ## Calendar of Meetings
 To see upcoming Open Data Hub events and meetings, please add the [Open Data Hub 
-community meeting calendar](https://calendar.google.com/calendar?cid=cmVkaGF0LmNvbV92bW1pMW5tdHQyZGJjdXVqcmJ1aGo5N2pya0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t).
+community meeting calendar](https://meet.google.com/svm-xbwy-yui)
 
-### How to Join
-1. Video  Conferencing using bluejeans: https://bluejeans.com/563715630/3948
-2. Audio Call: 
+1. Video  Conferencing using Google Meet: https://meet.google.com/svm-xbwy-yui
+2.  Audio Call: 
    - Dial one of the following numbers:
-   - 408-915-6466 (United States)
-   - For international numbers please visit [bluejeans](https://www.redhat.com/en/conference-numbers)
-   - Enter the meeting ID 563715630 #
+   - (United States) +1 575-448-4115 PIN:387 778 528#
+     More phone numbers: https://tel.meet/svm-xbwy-yui?pin=9916281019745
+     Or join via SIP: sip:9916281019745@gmeet.redhat.com
 
 ## Governance
 Open Data Hub has the following types of groups that are officially supported:
