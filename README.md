@@ -43,9 +43,13 @@ Open Data Hub has the following types of groups that are officially supported:
 See the full [governance document](./governance.md) for more details on these groups.
 
 ## Contribute
+
+# As of April 2023, we have moved to [main](https://github.com/opendatahub-io/opendatahub-community/tree/main) as the default branch for this repository.
+
 A first step to contributing is to pick from the list of Open Data Hub SIGs. Start attending SIG meetings, join the slack channel and subscribe to the mailing list. Subprojects in the SIGs will often have a set of "help wanted" issues that can help new contributors get involved.
 
 The [Contributor Guide](./contributing.md) provides help on how to get your ideas and bug fixes seen and accepted.
+
 
 ## Membership
 We encourage all contributors to become members. We aim to grow an active, healthy community of contributors, reviewers, and code owners. Learn more about requirements and responsibilities of membership in our [Community Membership page](./community-membership.md).
