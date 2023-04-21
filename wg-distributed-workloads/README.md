@@ -20,9 +20,9 @@
 
 ## Organizers
 
-* Selbi Nuryyeva: [heyselbi](https://github.com/heyselbi)
+* Anish Asthana: [anisthasthana](https://github.com/anishasthana)
+* Michael Clifford: [MichaelClifford](https://github.com/michaelclifford)
 * Mustafa Eyceoz: [maxusmusti](https://github.com/maxusmusti)
-* Atin Sood: [asood](https://github.com/asood)
 
 ## Deliverables
 
