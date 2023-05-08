@@ -8,7 +8,7 @@ This document defines the scope and governance of the ML Ops Special Interest Gr
 
 * SIG Meeting Invite: <https://meet.google.com/xfx-takq-cyq>
 * Meeting Agenda: [Notes - ML Ops SIG](https://docs.google.com/document/d/1FRgjYrr6q-phoeopC6Nl8c4AX2uma7oOXn6vNkBZ7Qg/edit)
-* Cadence: 14:00 - 15:00 Eastern time every 2nd Wednesday, starting June 15th
+* Cadence: 12:00 - 13:00 Eastern time every 2nd Wednesday
 
 ## Chairs
 
