@@ -21,11 +21,13 @@ The Chairs of the SIG run operations and processes governing the SIG
 
 **Members**:
 
-The members of the SIG establish new subprojects, decommission existing subprojects, and resolve cross-subproject technical issues and decisions
+The members of these teams within the SIG establish new subprojects, decommission existing subprojects, and resolve cross-subproject technical issues and decisions
 
-* Dharmit Dalvi
-* Giulio Frasca
-* Ricardo Martinelli de Oliveira
+* Data Science Pipelines
+* Model Serving
+* AI Explainability
+
+_#TODO: Link to GitHub Teams once created_
 
 **Contact:**
 
