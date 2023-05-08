@@ -17,7 +17,7 @@ The Chairs of the SIG run operations and processes governing the SIG
 * Prasanth Anbalagan: panbalag
 * Anish Asthana: anishasthana
 * Nick Hill: njhill
-* Chad Roberts: crobby
+* Giulio Frasca: gmfrasca
 
 **Members**:
 
