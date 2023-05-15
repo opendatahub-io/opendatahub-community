@@ -17,6 +17,7 @@ Here is an excerpt from the code of conduct:
 - **Website** - Documentation is published at [opendatahub.io](https://opendatahub.io)
 - **YouTube** - Videos of Open Data Hub and other related content can be seen on the [AI/ML OpenShift YouTube channel](https://www.youtube.com/playlist?list=PLaR6Rq6Z4Iqcg2znnClv-xbj93Q_wcY8L).
 - **Open Data Hub Blog** - Read various blogs about Open Data Hub and its releases on the [Open Data Hub news page](https://opendatahub.io/news.html).
+- **Bug Reports** - Any bugs with Open Data Hub can be reported to the [issues](https://github.com/opendatahub-io/opendatahub-community/issues) page where it will be reviewed and triaged by the relevant component owners
 
 ## Meeting Agenda and Notes
 Meeting agenda can be found in the document ["Open Data Hub Community Meeting Agenda"](https://docs.google.com/document/d/1u6Kwn_uBwrlYnEE1wBkK-7USXCFuD_0IU8gKhGdfuuw/edit?usp=sharing).
