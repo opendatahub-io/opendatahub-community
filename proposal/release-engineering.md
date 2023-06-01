@@ -1,5 +1,5 @@
 ---
-title: Iter8
+title: Release Engineering and Optimization for ML Models
 ---
 
 # Iter8
@@ -10,9 +10,9 @@ Iter8, experiment, A/B testing, Performance testing, traffic engineering, canary
 
 ## What is Iter8?
 
-[Iter8](https://iter8.tools) is the open source Kubernetes release optimizer built for DevOps, MLOps, data science, and platform engineering teams. Iter8 detects new variants of ML inference services in the cluster and optimizes their release.
+[Iter8](https://iter8.tools) is the open source Kubernetes release engineering and optimization tool built for MLOps, data science, and platform engineering teams. Iter8 detects new versions of ML models in the cluster and optimizes their release.
 
-## User Use Cases
+## User Use Cases (TBD)
 
 Iter8 simplifies traffic engineering and metrics-based testing/validation for ML inference services running in Kubernetes/OpenShift clusters. Specific usecases are as follows.
 
@@ -26,7 +26,7 @@ Iter8 simplifies traffic engineering and metrics-based testing/validation for ML
 
 **Metrics-driven assessments of candidate versions including A/B/n testing:** Traffic engineering is merely "one-half" of Iter8 functionality as shown in the illustration. Another complementary side involves metrics-driven experiments. During a canary release, how does the user evaluate the canary version? Perhaps the user wants to split traffic between the primary and candidate versions (can be multiple), compare them in terms of business metrics such as conversion rate, engagement, revenue, sales, or any application metric that the business owners care about, and determine the winning version to be promoted. This is classic A/B/n testing for which Iter8 has significant built-in support, both for metrics collection and comparison/assessment of versions. Users can also use Iter8 for other types of validation such as SLOs, and performance tests. Clearly, vanilla service mesh does not deliver any of these features for users.
 
-## Architecture and Implementation
+## Architecture and Implementation (TBD)
 
 [Iter8 architecture and implementation](https://iter8.tools).
 
@@ -37,15 +37,13 @@ Iter8 has a cluster-side component (controller + a service) that runs inside the
 
 ## Owners Information and Maintenance Plan
 
-### IBM
+### IBM Research
 
-- Alan Cha (IBM Research)
-- Michael Kalantar (IBM Research)
-- Srinivasan Parthasarathy (IBM Research)
-- Atin Sood (IBM Research)
+* [Alan Cha](https://github.com/Alan-Cha)
+* [Michael Kalantar](https://github.com/kalantar)
+* [Srinivasan Parthasarathy](https://github.com/sriumcp)
+* [Atin Sood](https://github.com/atinsood)
 
 ### Red Hat
 
-- Taneem Ibrahim (RHODS)
-
-We also plan to continue consulting with Nick Hill (IBM) and Darrel Reimer (IBM Research) as we maintain and evolve Iter8.
+* [Taneem Ibrahim](https://github.com/taneem-ibrahim)
