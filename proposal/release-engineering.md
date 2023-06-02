@@ -1,8 +1,8 @@
 ---
-title: Release Engineering and Optimization for ML Models
+title: Release Engineering and Optimization for ML Models using Iter8
 ---
 
-# Iter8
+# Release Engineering and Optimization for ML Models using Iter8
 
 ## Keywords
 
@@ -12,9 +12,9 @@ Iter8, experiment, A/B testing, Performance testing, traffic engineering, canary
 
 [Iter8](https://iter8.tools) is the open source Kubernetes release engineering and optimization tool built for MLOps, data science, and platform engineering teams. Iter8 detects new versions of ML models in the cluster and optimizes their release.
 
-## User Use Cases (TBD)
+## User Use Cases
 
-Iter8 simplifies traffic engineering and metrics-based testing/validation for ML inference services running in Kubernetes/OpenShift clusters. Specific usecases are as follows.
+Iter8 simplifies traffic engineering and metrics-based testing/validation for ML inference services running in Kubernetes/OpenShift clusters. Specific usecases are illustrated below.
 
 ![Iter8 usecases](../images/iter8usecases.png)
 
@@ -26,14 +26,28 @@ Iter8 simplifies traffic engineering and metrics-based testing/validation for ML
 
 **Metrics-driven assessments of candidate versions including A/B/n testing:** Traffic engineering is merely "one-half" of Iter8 functionality as shown in the illustration. Another complementary side involves metrics-driven experiments. During a canary release, how does the user evaluate the canary version? Perhaps the user wants to split traffic between the primary and candidate versions (can be multiple), compare them in terms of business metrics such as conversion rate, engagement, revenue, sales, or any application metric that the business owners care about, and determine the winning version to be promoted. This is classic A/B/n testing for which Iter8 has significant built-in support, both for metrics collection and comparison/assessment of versions. Users can also use Iter8 for other types of validation such as SLOs, and performance tests. Clearly, vanilla service mesh does not deliver any of these features for users.
 
-## Architecture and Implementation (TBD)
+## Architecture and Implementation
 
-[Iter8 architecture and implementation](https://iter8.tools).
+Iter8 consists of three components, namely, a Kubernetes traffic controller, a CLI for orchestrating experiments, and a gRPC-based client SDK that simplifies A/B/n testing of ML models in production.
 
-Iter8 has a cluster-side component (controller + a service) that runs inside the Kubernetes/OpenShift cluster and a client-side component (CLI) that runs in the user's local machine or within a CI/CD pipeline. Both these components are implemented in `Golang` as part of [this GitHub repo](https://github.com/iter8-tools/iter8).
+### Kubernetes traffic controller
+Iter8 provides a Kubernetes traffic controller that can be installed using Helm or Kustomize. This controller automatically and dynamically reconfigures Kubernetes routing resources based on the state of ML model versions. The following picture illustrates a Blue-Green rollout scenario that is orchestrated by this controller.
 
-1. The cluster-side component enables the traffic engineer use-cases and additionally provides a service that supports Iter8's A/B/n testing SDK. This component is packaged as a Helm chart and also a Kustomize overlay, and can be installed in the cluster using either of these tools.
-2. The CLI enables launching experiments for assessing inference services using metrics. The CLI is installed using `go install`.
+![Blue-Green](../images/iter8trafficcontroller.png)
+
+### CLI for experiments
+Iter8 introduces the notion of an experiment, and provides a CLI for executing experiments and retrieving their results. An experiment is simply a list of tasks that are executed in a specific sequence. The following picture illustrates a performance testing and SLO validation experiment for a Kubernetes app/ML model (inference service); this experiment consists of three tasks.
+
+![Iter8 experiment](../images/iter8experiment.png)
+
+In addition to performance testing and SLO validation for HTTP and gRPC services, Iter8 experiments can also be used to compare versions of an app/ML model in terms of their business metrics, and perform SLO validation using metrics from custom databases (such as Prometheus).
+
+### Client SDK
+Iter8 provides a client-side SDK to facilitate routing as well as metrics collection task associated with distributed (i.e., client-server architecture-based) A/B/n testing in Kubernetes. The following picture illustrates the use of the SDK for A/B testing of ML models.
+
+![Iter8 client SDK](../images/iter8clientsdk.png)
+
+Iter8's SDK is designed to handle user stickiness, collection of business metrics, and decoupling of front-end and back-end release processes during A/B/n testing. The cluster-side functionality needed by this SDK is handled by the traffic controller described above. Application developers who wish to use this SDK, embed the client APIs as part of their (front-end) application code.
 
 ## Owners Information and Maintenance Plan
 

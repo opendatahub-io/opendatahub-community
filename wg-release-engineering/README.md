@@ -29,17 +29,23 @@ TBD
 
 ## Goals
 
-* Establish a framework for release optimization and engineering in the ODH ecosystem.
-* Provide tools to MLOps teams using ODH for automating the following use-cases:
+* Establish a framework for release optimization and engineering within the ODH ecosystem.
+* Drive higher-value for ODH eco-system components through Iter8. The components that will benefit from this work includes the model serving components, namely ModelMesh, TrustyAI, OpenVINO, and the storage components, namely, Prometheus and Ceph.
+* Provide guidance and tooling for MLOps teams using ODH for the following use-cases.
     - Reliable and automated traffic engineering: blue-green, canary, and mirroring
     - Metrics-driven validation: A/B/n testing, performance testing
     - Metrics-driven validation (future roadmap): Golden testing, drift detection
 
 ## Deliverables
 
-* Provide Iter8 extension for ODH
-* Provide documentation for how ODH users can implement various release optimization use-cases using Iter8 and KServe modelmesh.
+* Enable installation of Iter8 through ODH operator
+* [Phase 1] Document traffic engineering use-cases for Kserve modelmesh
+* [Phase 2] Document performance validation experiments for KServe modelmesh
+* [Phase 3] Document A/B/n testing experiments for KServe modelmesh
+* [Phase 4] Document traffic engineering use-cases for model serving based on TrustyAI and OpenVINO
+* [Phase 5] Document performance validation experiments for model serving based on TrustyAI and OpenVINO
+* [Phase 6] Document A/B/n testing experiments for model serving based on TrustyAI and OpenVINO
 
 ## Useful references
 
-https://iter8.tools
+[Iter8 documentation](https://iter8.tools).
