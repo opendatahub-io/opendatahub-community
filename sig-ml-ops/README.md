@@ -31,5 +31,5 @@ _#TODO: Link to GitHub Teams once created_
 
 **Contact:**
 
-* [Slack](https://join.slack.com/t/odh-io/shared_invite/zt-18ptx7far-SWO4jkDbuA7Sq8Mut3JbcA) - #sig-ml-ops
+* [Slack](https://join.slack.com/t/odh-io/shared_invite/zt-13hp18gxj-Yb34PfQyP9GDmKMU7AkVYw) - #sig-ml-ops
 * [Mailing List](mailto:odh-community@googlegroups.com)
