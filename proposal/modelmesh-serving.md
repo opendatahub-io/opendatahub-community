@@ -4,6 +4,10 @@ title: ModelMesh Serving
 
 [ModelMesh Serving](https://github.com/kserve/modelmesh-serving) is the Controller for managing ModelMesh, a general-purpose model serving management/routing layer.
 
+It is designed for high-scale, high-density and frequently-changing model use cases. ModelMesh intelligently loads and unloads AI models to and from memory to strike an intelligent trade-off between responsiveness to users and computational footprint.
+
+If you are interested in single model deployment topology have a look to [KServe Model Serving Runtime](kserve-serving.md)
+
 ## Architecture
 [ModelMesh Serving Architecture and Overview](https://github.com/kserve/modelmesh-serving/blob/main/README.md)
 
