@@ -22,6 +22,6 @@ title: KServe Model Serving Runtime
 
 KServe has two different installation configurations: Serverless and Raw Kubernetes Deployment.
 
-Serverless requires Knative (OpenShift Serverless) and Istio (OpenShift Service Mesh), it is the default option and the option that offers all the KServe features, so it is the suggestion option for ODH users too.
+Serverless requires Knative (OpenShift Serverless) and Istio (OpenShift Service Mesh), it is the default option and the option that offers all the KServe features, so it is the suggested option for ODH users too.
 
 This implies that Knative (OpenShift Serverless) and Istio (OpenShift Service Mesh) are going to be mandatory dependencies to install in the cluster to run the full KServe stack.
