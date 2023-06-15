@@ -13,11 +13,15 @@ title: KServe Model Serving Runtime
 [KServe Data Plane Architecture](https://github.com/kserve/website/blob/main/docs/modelserving/data_plane/data_plane.md)
 
 ## User Use Cases
-Data science users who would like a flexible, lightweight way to serve up 1->N models in their OpenShift environment.
+[WIP] Data science users who would like a flexible, lightweight way to serve up 1->N models in their OpenShift environment.
 
 ## Implementation
 [WIP]
 
 ## More info
 
-KServe has two different installation configurationsWhile ModelMesh is part of the lager Kserve project, it can be installed standalone as I propose here.  The lightweight standalone installation does not require Knative/Istio/ServiceMesh, which may be an attractive option for some OpenShift installations.
+KServe has two different installation configurations: Serverless and Raw Kubernetes Deployment.
+
+Serverless requires Knative (OpenShift Serverless) and Istio (OpenShift Service Mesh), it is the default option and the option that offers all the KServe features, so it is the suggestion option for ODH users too.
+
+This implies that Knative (OpenShift Serverless) and Istio (OpenShift Service Mesh) are going to be mandatory dependencies to install in the cluster to run the full KServe stack.
