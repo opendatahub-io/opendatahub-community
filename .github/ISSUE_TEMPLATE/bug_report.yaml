@@ -1,0 +1,77 @@
+name: Bug Report
+description: File a bug report
+title: "[Bug]: "
+labels: ["kind/bug", "untriaged"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for taking the time to fill out this bug report! Please, fill this form to help us improve the project.
+  - type: dropdown
+    attributes:
+      label: ODH Component
+      description: Which ODH Component is affected by this issue?
+      multiple: false
+      options:
+        - ODH Operator
+        - ODH Dashboard
+        - ODH Notebook Controller
+        - ODH Workbench Images
+        - Data Science Pipelines
+        - Model Serving
+        - AI Explainability
+        - Distributed Workloads
+  - type: textarea
+    attributes:
+      label: Current Behavior
+      description: A concise description of what you're experiencing.
+    validations:
+      required: true
+  - type: textarea
+    attributes:
+      label: Expected Behavior
+      description: A concise description of what you expected to happen.
+    validations:
+      required: true
+  - type: textarea
+    attributes:
+      label: Steps To Reproduce
+      description: Steps to reproduce the behavior.
+      placeholder: |
+        1. In this environment...
+        2. With this config...
+        3. Run '...'
+        4. See error...
+  - type: textarea
+    id: workaround
+    attributes:
+      label: Workaround (if any)
+      description: Any manual steps that allow you to resolve the issue
+      placeholder: Tell us the steps you followed to resolve the issue!
+    validations:
+      required: false
+  - type: dropdown
+    id: browsers
+    attributes:
+      label: What browsers are you seeing the problem on? (If applicable)
+      multiple: true
+      options:
+        - Firefox
+        - Chrome
+        - Safari
+        - Microsoft Edge
+    validations:
+      required: false
+  - type: textarea
+    id: opendatahub-version
+    attributes:
+      label: Open Data Hub Version
+      description: Please attach relevant kfdef manifest if applicable
+      render: yml
+  - type: textarea
+    id: anything-else
+    attributes:
+      label: Anything else
+      description: Any additional information you'd like to share
+    validations:
+      required: false

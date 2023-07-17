@@ -78,4 +78,4 @@ Consider contributing to documentation to improve install instructions, tutorial
 
 Helping to manage or triage open issues in repositories can be a great contribution and a great opportunity to learn about the various areas of the project.
 
-Triaging is the word we use to describe the process of adding multiple types of descriptive labels to GitHub issues, in order to speed up routing issues to the right folks.
+Triaging is the word we use to describe the process of adding multiple types of descriptive labels to GitHub issues, in order to speed up routing issues to the right folks.  If you experience any issues affecting the Open Data Hub community or the components, please file an issue under the [opendatahub-community](https://github.com/opendatahub-io/odh-dashboard/issues).  The issue will be reviewed and triaged by the relevant component owners and transfered to the affected code repositories under the [opendatahub-io organization](https://github.com/opendatahub-io).
