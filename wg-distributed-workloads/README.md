@@ -15,7 +15,7 @@
 
 ## Meetings
 
-* Status updates will occur during [Platform SIG](sig-platform) meetings
+* Status updates will occur during [Platform SIG](/sig-platform) meetings
 * [Slack](https://join.slack.com/t/odh-io/shared_invite/zt-1lufs2up2-IxtfcfWp7RxvjQOqNDxdhA) on channel #wg-distributed-workloads
 
 ## Organizers
