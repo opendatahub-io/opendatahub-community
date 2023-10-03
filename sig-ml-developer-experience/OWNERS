@@ -1,14 +1,15 @@
 approvers:
-- erwangranger
-- jkoehler-redhat
+- andrewballantyne
+- harshad16
 - kywalker-rh
-- romeokienzler
 
 reviewers:
+- andrewballantyne
+- kywalker-rh
+- harshad16
 - goern
 - LaVLaS
 - lucferbux
-- samuelvl
 
 labels:
   - sig/ml-developer-experience
