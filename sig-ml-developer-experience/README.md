@@ -15,7 +15,7 @@ The [charter](./charter.md) defines the scope and governance of the ML Developer
 The Chairs of the SIG run operations and processes governing the SIG.
 - Kyle Walker
 - Andrew Ballantyne
-- 
+- Harshad Reddy Nalla
 
 ### Members
 
