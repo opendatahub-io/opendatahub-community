@@ -61,3 +61,5 @@ Tony Davidson - RHOAI QE team - Red Hat
 The owners are committed to maintaining and testing the Model Registry with each new release of its every component and ODH.
 
 ## More Info
+- ML-metadata community ticket: https://github.com/google/ml-metadata/issues/185
+- Kubeflow community ticket: https://github.com/kubeflow/kubeflow/issues/7396
