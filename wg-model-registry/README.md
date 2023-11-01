@@ -19,7 +19,7 @@
 ## Organizers
 
 * Ramesh Reddy: [rareddy](https://github.com/rareddy)
-* Daniele Zonka: [danielezonca](https://github.com/danielezonca)
+* Daniele Zonca: [danielezonca](https://github.com/danielezonca)
 * Dhiraj Bokde: [dhirajsb](https://github.com/dhirajsb)
 * Matteo Mortari: [tarilabs](https://github.com/tarilabs) 
   
