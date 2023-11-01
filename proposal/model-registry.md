@@ -43,7 +43,8 @@ The high level architecture for an OpenDatahub Model Registry is depicted below.
 ------------------------------------------------------------------------------------------------------------------------------
 
 ## Implementation
-WIP
+See Trackers on `model-registry` repo:
+- https://github.com/opendatahub-io/model-registry/issues/95
 
 ## Owners Information and Maintenance Plan
 Ramesh Reddy - RHOAI team - Red Hat
