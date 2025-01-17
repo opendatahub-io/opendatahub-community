@@ -9,14 +9,13 @@ The Open Data Hub community abides by the [Open Data Hub Code of Conduct](https:
 
 Here is an excerpt from the code of conduct:
 
-*In the interest of fostering an open and welcoming environment, we as contributors and maintainers pledge to making participation in our project and our community a harassment-free experience for everyone, regardless of age, body size, disability, ethnicity, gender identity and expression, level of experience, education, socio-economic status, nationality, personal appearance, race, religion, or sexual identity and orientation.*
+> *In the interest of fostering an open and welcoming environment, we as contributors and maintainers pledge to making participation in our project and our community a harassment-free experience for everyone, regardless of age, body size, disability, ethnicity, gender identity and expression, level of experience, education, socio-economic status, nationality, personal appearance, race, religion, or sexual identity and orientation.*
 
-- **Slack** - Join us on Slack for discussions and questions at [odh-io.slack.com](https://odh-io.slack.com). [Invite](https://join.slack.com/t/odh-io/shared_invite/zt-13hp18gxj-Yb34PfQyP9GDmKMU7AkVYw)
 - **Mailing List** - Join the Open Data Hub mailing list [odh-community@googlegroups.com](mailto:odh-community@googlegroups.com) to keep up with the latest news and start discussions.
 - **Community Meetings** - We use [Google Meet](https://meet.google.com/) for our community group meetings and contributor programs.
 - **Website** - Documentation is published at [opendatahub.io](https://opendatahub.io)
 - **YouTube** - Videos of Open Data Hub and other related content can be seen on the [AI/ML OpenShift YouTube channel](https://www.youtube.com/playlist?list=PLaR6Rq6Z4Iqcg2znnClv-xbj93Q_wcY8L).
-- **Open Data Hub Blog** - Read various blogs about Open Data Hub and its releases on the [Open Data Hub news page](https://opendatahub.io/news.html).
+- **Open Data Hub Blog** - Read various blogs about Open Data Hub and its releases on the [Open Data Hub news page](https://opendatahub.io/blog/).
 - **Bug Reports** - Any bugs with Open Data Hub can be reported to the [issues](https://github.com/opendatahub-io/opendatahub-community/issues) page where it will be reviewed and triaged by the relevant component owners
 
 ## Meeting Agenda and Notes
