@@ -6,8 +6,8 @@ body:
     id: release_date
     attributes:
       label: "📅 Planned Release Date"
-      description: "Enter the planned release date (e.g., Mar 21st, 2025)"
-      placeholder: "Mar 21st, 2025"
+      description: "Enter the planned release date (e.g., Mar 17th, 2025)"
+      placeholder: "Mar 17th, 2025"
 
   - type: input
     id: deadline_date
