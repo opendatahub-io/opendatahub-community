@@ -1,18 +1,18 @@
 name: "Release Tracker Issue"
-description: "Track component releases and update manifests before the deadline"
+description: "Track component releases and update manifests before the code freeze"
 title: "[Release Tracker] - <Insert Release Name>"
 body:
   - type: input
     id: release_date
     attributes:
-      label: "📅 Planned Release Date"
-      description: "Enter the planned release date (e.g., Mar 17th, 2025)"
+      label: "📅 Release Date"
+      description: "Enter the release date (e.g., Mar 17th, 2025)"
       placeholder: "Mar 17th, 2025"
 
   - type: input
-    id: deadline_date
+    id: code_freeze
     attributes:
-      label: "🛑 Manifest Update Deadline"
+      label: "🛑 Code freeze date"
       description: "Enter the last date for updating manifests (e.g., Mar 14th, 2025)"
       placeholder: "Mar 14th, 2025"
 
