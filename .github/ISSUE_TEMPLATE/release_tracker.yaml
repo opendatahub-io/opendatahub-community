@@ -1,0 +1,69 @@
+name: "Release Tracker Issue"
+description: "Track component releases and update manifests before the code freeze"
+title: "[Release Tracker] - <Insert Release Name>"
+body:
+  - type: input
+    id: release_date
+    attributes:
+      label: "📅 Release Date"
+      description: "Enter the release date (e.g., Jun 10th, 2025)"
+      placeholder: "Jun 10th, 2025"
+
+  - type: input
+    id: code_freeze
+    attributes:
+      label: "🛑 Code freeze date"
+      description: "Enter the last date for updating manifests (e.g., Jun 9th, 2025)"
+      placeholder: "Jun 9th, 2025"
+
+  - type: textarea
+    id: instructions
+    attributes:
+      label: "📌 Instructions for adding the release comments!"
+      description: "Copy-paste this into a comment and update with component details."
+      value: |
+        **Comment Template for Automation**
+        ```
+        #Release#
+        - component_name|release-branch/release-tag|release-notes
+        ```
+        Note that there can be multiple entries if required.
+        ```
+        #Release#
+        - component_name|release-branch/release-tag|release-notes
+        - component_name|release-branch/release-tag|release-notes
+        - component_name|release-branch/release-tag|release-notes
+        ```
+        **⚠ Important Notes**
+        - If tag == branch, use the shortened format:
+          ```
+          #Release#
+          - component_name|release-tag-url
+          ```
+        - If tag != branch, use the detailed format:
+          ```
+          #Release#
+          - component_name|release-branch-url|release-tag-url
+          ```
+
+  - type: checkboxes
+    id: components
+    attributes:
+      label: "📋 Component List"
+      description: "**Only select components names from this list.** DO NOT enter custom names."
+      options:
+        - label: "modelregistry"
+        - label: "notebook-controller"
+        - label: "notebooks"
+        - label: "modelmeshserving"
+        - label: "kserve"
+        - label: "kueue"
+        - label: "codeflare"
+        - label: "ray"
+        - label: "trustyai"
+        - label: "trainingoperator"
+        - label: "datasciencepipelines"
+        - label: "modelcontroller"
+        - label: "feastoperator"
+        - label: "dashboard"
+        - label: "llama-stack-operator"
