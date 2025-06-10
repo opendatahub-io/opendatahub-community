@@ -50,6 +50,11 @@ A first step to contributing is to pick from the list of Open Data Hub SIGs. Sta
 
 The [Contributor Guide](./contributing.md) provides help on how to get your ideas and bug fixes seen and accepted.
 
+## Community Release Schedule
+
+- **Release Cadence**: A new release every 3 weeks.
+- **Code Freeze**: The Monday of the release week.
+- **Release Day**: The day after code freeze.
 
 ## Membership
 We encourage all contributors to become members. We aim to grow an active, healthy community of contributors, reviewers, and code owners. Learn more about requirements and responsibilities of membership in our [Community Membership page](./community-membership.md).
