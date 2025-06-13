@@ -26,3 +26,8 @@ Open an Issue in the Open Data Hub [Jira project](https://issues.redhat.com/secu
 ## Submit a Pull Request After Approval
 Once the opened issue is resolved and there is approval from the Open Data Hub community, a pull request with the implementation details can be submitted. A pull request must include comprehensive unit tests for the component integrated with Open Data Hub testing framework. If the component includes a UI element, integration with the Open Data Hub dashboard must also be included. It is also required that all new components expose a Prometheus endpoint for metric gathering. 
 
+## Development Standards by Feature Level
+ 
+The approval for any new component in ODH ultimately rests with the relevant Business Unit (BU). Once the Business Unit approves a component's inclusion, it must then meet the specific development requirements for its intended feature level (Dev Preview, ODH, or RHOAI). These requirements cover security, testing, packaging, and ongoing maintenance standards.
+
+For detailed technical, security, and operational standards that apply throughout the development lifecycle, see the [Feature Development Requirements](feature-development-requirements.md) document.

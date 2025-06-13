@@ -74,6 +74,8 @@ Continuous integration will run these tests either as pre-submits on PRs, post-s
 
 Consider contributing to documentation to improve install instructions, tutorials, examples and more by adding content to [opendatahub.io](https://github.com/opendatahub-io/opendatahub.io).  If new features or components are being submitted, it is expected that proper documentation will accompany it.
 
+For contributors working on feature development, see the [Feature Development Requirements](feature-development-requirements.md) document which outlines the technical standards and requirements for different feature maturity levels (Dev Preview, ODH, and RHOAI features).
+
 ## Issues Management or Triage
 
 Helping to manage or triage open issues in repositories can be a great contribution and a great opportunity to learn about the various areas of the project.
