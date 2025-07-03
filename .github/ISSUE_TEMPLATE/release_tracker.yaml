@@ -53,8 +53,8 @@ body:
       description: "**Only select components names from this list.** DO NOT enter custom names."
       options:
         - label: "modelregistry"
-        - label: "notebook-controller"
-        - label: "notebooks"
+        - label: "workbenches/notebook-controller"
+        - label: "workbenches/notebooks"
         - label: "modelmeshserving"
         - label: "kserve"
         - label: "kueue"
@@ -67,3 +67,14 @@ body:
         - label: "feastoperator"
         - label: "dashboard"
         - label: "llama-stack-operator"
+
+  - type: markdown
+    attributes:
+      value: "---"
+
+  - type: checkboxes
+    id: qe_signoff
+    attributes:
+      label: "QE Sign-off"
+      options:
+        - label: "QE sign-off completed"
