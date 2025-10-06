@@ -6,15 +6,15 @@ body:
     id: release_date
     attributes:
       label: "📅 Release Date"
-      description: "Enter the release date (e.g., Jun 10th, 2025)"
-      placeholder: "Jun 10th, 2025"
+      description: "Enter the release date (e.g., Oct 21st, 2025)"
+      placeholder: "Oct 21st, 2025"
 
   - type: input
     id: code_freeze
     attributes:
       label: "🛑 Code freeze date"
-      description: "Enter the last date for updating manifests (e.g., Jun 9th, 2025)"
-      placeholder: "Jun 9th, 2025"
+      description: "Enter the last date for updating manifests (e.g., Oct 20th, 2025)"
+      placeholder: "Oct 20th, 2025"
 
   - type: textarea
     id: instructions
@@ -52,17 +52,14 @@ body:
       label: "📋 Component List"
       description: "**Only select components names from this list.** DO NOT enter custom names."
       options:
-        - label: "modelregistry"
+        - label: "aihub"
         - label: "notebook-controller"
         - label: "notebooks"
-        - label: "modelmeshserving"
         - label: "kserve"
-        - label: "kueue"
-        - label: "codeflare"
         - label: "ray"
         - label: "trustyai"
         - label: "trainingoperator"
-        - label: "datasciencepipelines"
+        - label: "aipipelines"
         - label: "modelcontroller"
         - label: "feastoperator"
         - label: "dashboard"

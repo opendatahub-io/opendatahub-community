@@ -17,10 +17,14 @@ body:
         - ODH Dashboard
         - ODH Notebook Controller
         - ODH Workbench Images
-        - Data Science Pipelines
+        - AI Pipelines
         - Model Serving
         - AI Explainability
         - Distributed Workloads
+        - AI Hub
+        - RAG
+        - llama-stack
+        - feature store
   - type: textarea
     attributes:
       label: Current Behavior
