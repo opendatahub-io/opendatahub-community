@@ -317,7 +317,7 @@ Components may become obsolete or deprecated due to technology evolution, securi
 4. **Engage Teams**: Work with architecture and security teams as outlined in the template workflow
 
 ### Support and Questions
-- **General Questions**: Contact `openshift-ai-core-platform
+- **General Questions**: Contact `openshift-ai-core-platform`
 - **Build Issues**: Contact `openshift-ai-devops`
 - **Template Questions**: Comment on the original template Jira issues
 - **Community Support**: Join ODH community meetings and mailing lists
