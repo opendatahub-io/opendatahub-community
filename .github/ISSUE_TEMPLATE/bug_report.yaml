@@ -25,6 +25,7 @@ body:
         - RAG
         - llama-stack
         - feature store
+        - kube-auth-proxy
   - type: textarea
     attributes:
       label: Current Behavior

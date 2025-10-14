@@ -64,3 +64,4 @@ body:
         - label: "feastoperator"
         - label: "dashboard"
         - label: "llama-stack-operator"
+        - label: "kube-auth-proxy"
