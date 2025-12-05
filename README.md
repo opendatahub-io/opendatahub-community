@@ -27,13 +27,6 @@ To add items to the agenda, please join our [Open Data Hub Community group](http
 To see upcoming Open Data Hub events and meetings, please add the [Open Data Hub 
 community meeting calendar](https://meet.google.com/svm-xbwy-yui)
 
-ODH Community Meeting - Monthly on the third Monday @ 12pm EST
-- Video  Conferencing using Google Meet: https://meet.google.com/svm-xbwy-yui
-- Audio Call: 
-  - Dial one of the following numbers: (United States) `+1 575-448-4115` PIN:`387 778 528#`
-    <br>[More phone numbers](https://tel.meet/svm-xbwy-yui?pin=9916281019745)
-- Or join via SIP: `sip:9916281019745@gmeet.redhat.com`
-
 ## Governance
 Open Data Hub has the following types of groups that are officially supported:
 - **Steering Committee** is the governing body of the Open Data Hub project tasked with taking on sensitive topics, providing strategic direction, decision-making and oversight.
@@ -52,9 +45,9 @@ The [Contributor Guide](./contributing.md) provides help on how to get your idea
 
 ## Community Release Schedule
 
-- **Release Cadence**: A new release every 3 weeks.
-- **Code Freeze**: The Monday of the release week.
-- **Release Day**: The day after code freeze.
+- **Release Cadence**: A new release every 4 weeks.
+- **Code Freeze**: Friday of the code freeze week.
+- **Release Day**: The following Monday after code freeze
 
 ## Membership
 We encourage all contributors to become members. We aim to grow an active, healthy community of contributors, reviewers, and code owners. Learn more about requirements and responsibilities of membership in our [Community Membership page](./community-membership.md).
